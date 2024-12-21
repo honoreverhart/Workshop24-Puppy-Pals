@@ -38,6 +38,7 @@ function App() {
         </p>
       </div>
       <div>
+        {/* NOT MY CODE!! I was just playing around with adding a puppy :) */}
         <div class="bg">
           <div id="dog">
             <div class="head">
